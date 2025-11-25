@@ -20,3 +20,6 @@ packages = [
     { include = "labyrinth_game" },
 ]
 
+
+[tool.poetry.scripts]
+project = "labyrinth_game.main:main"
