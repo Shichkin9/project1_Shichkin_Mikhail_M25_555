@@ -1,8 +1,9 @@
 
 
 # labyrinth_game/utils.py
-import math
 from labyrinth_game.constants import ROOMS
+import math
+
 
 
 

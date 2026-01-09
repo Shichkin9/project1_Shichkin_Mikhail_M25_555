@@ -1,22 +1,18 @@
-
 #!/usr/bin/env python3
 
-
 from labyrinth_game.constants import COMMANDS
-
 from labyrinth_game.player_actions import (
-   move_player, 
-   take_item, 
-   show_inventory, 
-    use_item,
-    get_input
+    get_input,
+    move_player,
+    show_inventory,
+    take_item,
+    use_item
 )
-
 from labyrinth_game.utils import (
-    solve_puzzle, 
-    attempt_open_treasure, 
-    show_help, 
-    describe_current_room
+    attempt_open_treasure,
+    describe_current_room,
+    show_help,
+    solve_puzzle
 )
 
 
