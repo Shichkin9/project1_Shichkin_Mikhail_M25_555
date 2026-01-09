@@ -57,3 +57,6 @@ make lint       # проверить код
 make build      # собрать пакет
 
 
+**Запись экрана**
+https://disk.yandex.ru/i/X0NqCxEperC6RQ
+
